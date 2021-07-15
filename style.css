@@ -50,7 +50,9 @@ button{
         align-content:center;
 
     }
-   
+    .sendans, .suvs, .luxury-1{
+        border-radius: 0;
+    }
     img{
         padding: 20px;
         width: 50%;
